@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roodlicious
 - 👀 I’m interested in data analytics as well as business intelligence
-- 🌱 I’m currently learning SQL,Python, and Visiualization 
-- 💞️ I’m looking to collaborate on anything that well help me with my portfolio and getting my foot in the door.  
+- 🌱 I’m currently in the trenches with SQL, Python, and PowerBi 
+- 💞️ I’m looking to collaborate on anything that well help me with my portfolio and building something I can be proud of.  
 - 📫 How to reach me rudy2.ms@gmail.com
 
 <!---
